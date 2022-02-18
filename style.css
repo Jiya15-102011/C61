@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+}
+.l{
+    height: 6px;
+    background-color: greenyellow;
+    width: 70;
+    margin: 8px auto;
+}
+#app{
+    background-color: blueviolet;
+}
+#game{
+    background-color: aqua;
+}
+#chat{
+    background-color: darkorange;
+}
